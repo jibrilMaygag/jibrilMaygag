@@ -13,7 +13,7 @@
 - 🌱 I’m learning modern frameworks like **Vue.js** to expand my web development skills.
 - 🎓 Pursuing a degree in Software Engineering at **Addis Ababa Science and Technology University**.
 - 💬 Ask me about **web development**, **mobile app development**, or anything related to **C++** and **JS**.
-- 📫 How to reach me: [Email](mailto:jibrilmeygag@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jibril-maygag-16bb1b319/).
+- 📫 How to reach me: [Email](mailto:jibrilmeygag@gmail.com) or [LinkedIn]((https://www.linkedin.com/in/jibril-abdi-16bb1b319/)).
 
 ---
 
