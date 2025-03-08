@@ -36,6 +36,10 @@
 ---
 
 ## 🚀 Projects
+
+- **[Advanced Bankist App](https://github.com/jibrilMaygag/advanced-bankist-app)**  
+  An enhanced version of the Bankist app with improved authentication, real-time updates, a modern UI, and modular ES6 code.
+
 - **[Bankist-Finance-App](https://github.com/jibrilMaygag/bankist-app)**  
   A simple banking application built using JavaScript, HTML, and CSS. Allows users to manage their finances with deposit/withdrawal requests, balance display, and more.
 
