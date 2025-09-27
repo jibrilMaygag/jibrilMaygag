@@ -9,10 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently on my **100 Days of Coding** journey, working on projects and solving coding challenges.
-- 🌱 I’m learning modern frameworks like **Flutter** to expand my app development skills.
 - 🎓 Pursuing a degree in Software Engineering at **Addis Ababa Science and Technology University**.
-- 💬 Ask me about **web development**, **mobile app development**, or anything related to **C++**, **Python**, and **JS**.
 - 📫 How to reach me: [Email](mailto:jibrilmeygag@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jibril-abdi-16bb1b319)
 
 ---
